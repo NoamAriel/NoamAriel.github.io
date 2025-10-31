@@ -18,17 +18,16 @@ In my research, we utilized a different system featuring one type of activator a
 This work is currently in preprint and has not yet been published. A link to the work will be provided here in the future.
 
 
-## Fruits
-* apple
-* banna
-* peach
+## Education
 
----
 
-## Animals
-1. cat
-1. dog
-1. Lion
+## Experiences
+
+
+
+## Hobbies
+
+## Languages
 
 
 [Git Maven](https://github.github.com/gfm/)
