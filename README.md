@@ -21,7 +21,9 @@ This work is currently in preprint and has not yet been published. A link to the
 ## Education
 
 Today PhD student in chemistry at [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) 
+
 08.2021- 05.2025 M.Sc. Chemistry  from the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) 
+
 09.2019- 08.2021 B.Sc. Chemistry and Biology from the [Hebrew University of Jerusalem](https://en.huji.ac.il/)
 
 
@@ -34,6 +36,7 @@ Hiking, Board games, Video games, Writing, Poetry, Books, Movies, and drinking a
 
 ## Languages
 Hebrew- Native
+
 English- Fluent
 
 
