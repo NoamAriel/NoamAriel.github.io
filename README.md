@@ -1,4 +1,4 @@
-# Welcome
+
 
 ## Who I am
 Hi, my name is [Noam Ariel](https://www.weizmann.ac.il/MCMS/shimanovich/group-members). I am 30 years old and have a wonderful wife and a lovely child.
@@ -20,17 +20,21 @@ This work is currently in preprint and has not yet been published. A link to the
 
 ## Education
 
+Today PhD student in chemistry at [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) 
+08.2021- 05.2025 M.Sc. Chemistry  from the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) 
+09.2019- 08.2021 B.Sc. Chemistry and Biology from the [Hebrew University of Jerusalem](https://en.huji.ac.il/)
+
 
 ## Experiences
 
-
+Organic chemistry, Matlab, and Hazardous Materials
 
 ## Hobbies
+Hiking, Board games, Video games, Writing, Poetry, Books, Movies, and drinking a good beer.
 
 ## Languages
+Hebrew- Native
+English- Fluent
 
 
-[Git Maven](https://github.github.com/gfm/)
-
-
-![Dolphine are adorable](izme-photo.jpg)
+![Me](izme-photo.jpg)
