@@ -43,4 +43,8 @@ English- Fluent
 
 Please review the assignments I submitted for this course at the [link](https://github.com/NoamAriel/python-course-assignments).
 
+## contacts
+Please feel free to contact with me by [LinkedIn](https://www.linkedin.com/in/noam-ariel-09aa75292/), [Facebook](https://www.facebook.com/profile.php?id=1697593744) or by [mail](noam.ariel@mail.huji.ac.il)
+
+
 ![Me](izme-photo.jpg)
