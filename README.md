@@ -39,9 +39,8 @@ Hebrew- Native
 
 English- Fluent
 
+## Python course assignments 2025 
+
+Please review the assignments I submitted for this course at the [link](https://github.com/NoamAriel/python-course-assignments).
 
 ![Me](izme-photo.jpg)
-
-## Windows
-
-[hello](./hello.md)
