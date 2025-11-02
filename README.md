@@ -26,13 +26,12 @@ Today PhD student in chemistry at [Weizmann Institute of Science](https://www.we
 
 09.2019- 08.2021 B.Sc. Chemistry and Biology from the [Hebrew University of Jerusalem](https://en.huji.ac.il/)
 
-
 ## Experiences
 
 Organic chemistry, Matlab, and Hazardous Materials
 
 ## Hobbies
-Hiking, Board games, Video games, Writing, Poetry, Books, Movies, and drinking a good beer.
+Hiking, Poetry, Board games, Video games, Writing, Books, Movies, and drinking a good beer.
 
 ## Languages
 Hebrew- Native
