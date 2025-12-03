@@ -24,7 +24,7 @@ Today PhD student in chemistry at [Weizmann Institute of Science](https://www.we
 
 08.2021- 05.2025 M.Sc. Chemistry  from the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) 
 
-09.2019- 08.2021 B.Sc. Chemistry and Biology from the [Hebrew University of Jerusalem](https://en.huji.ac.il/)
+09.2019- 08.2021 B.Sc. Chemistry and Biology from the [Hebrew University of Jerusalem](https://en.huji.ac.il/). In this time, worked in Mattan Hurevich [lab](https://scholars.huji.ac.il/mattanhurevich/people2)
 
 ## Experiences
 
