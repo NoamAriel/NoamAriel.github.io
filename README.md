@@ -12,7 +12,7 @@ I would like to understand the chemistry behind the synthesis and secretion proc
 
 ## My M.Sc. thesis
 In [Sergey Semenov's lab](https://www.weizmann.ac.il/Organic_Chemistry/Semenov/) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/), an organic network system was developed that demonstrates Turing's pattern through organic chemistry reactions. Turing's model involves two types of molecules: activators and inhibitors. The activator enhances itself production through positive feedback while simultaneously producing an inhibitor that reacts with the activator, thus inhibiting its reactivity. In this system, the diffusion coefficient of the inhibitor must be significantly higher than that of the activator.
-One can read on that system by clicking [here](https://www.nature.com/articles/s41467-026-71999-4). Regarding this work, it is worth mentioning that I had the honor to be part of this amazing work
+One can read on that system by clicking [here](https://www.nature.com/articles/s41467-026-71999-4). Regarding this work, it is worth mentioning that I had the honor to be part of this amazing work.
 
 In my research, we utilized a different system featuring one type of activator and two types of inhibitors: a fast inhibitor and a slow inhibitor. We discovered, using a mathematical model, that reducing the diffusion coefficient of the fast inhibitor enhances the resolution of feature patterns. Then we confirmed this theoretical finding experimentally. 
 
